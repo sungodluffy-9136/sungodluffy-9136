@@ -36,6 +36,6 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sungodluffy-9136&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="sungodluffy-9136 github stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sungodluffy-9136&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="sungodluffy-9136 github stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sungodluffy-9136&theme=tokyonight&hide_border=true&background=0D1117" alt="sungodluffy-9136 streak stats" />
 </p>
